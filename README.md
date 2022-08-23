@@ -51,7 +51,7 @@ if __name__ == '__main__':
 <p align="left">
   <a href="http://vinee.site/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Vineees&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Vinees&theme=gruvbox_duo&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Vinees&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
