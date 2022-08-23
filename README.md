@@ -58,6 +58,9 @@ if __name__ == '__main__':
 
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vineees&custom_title=Vinee%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://vinee.site)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
