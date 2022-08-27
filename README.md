@@ -15,7 +15,7 @@ Heya! I'm Vinicius Souza, a student currently living in Lagarto-SE, Brazil. I'm 
 </p>
 
 ```python
-class Vinee):
+class Vinee():
     
   def __init__(self):
     self.name = "Vinícius Souza";
@@ -147,6 +147,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 </p>
 ------
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
-
-Last Edited on: 24/12/2021
+#Credit: [abhigyantrips](https://github.com/abhigyantrips)
+#Last Edited on: 24/12/2021
