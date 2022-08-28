@@ -61,15 +61,15 @@ if __name__ == '__main__':
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vineees&custom_title=Vinee%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://vinee.site)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 43 Contributions in the Year 2022
+> 🏆 45 Contributions in the Year 2022
  > 
-> 📦 240 Bytes Used in GitHub's Storage 
+> 📦 248 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,25 +77,25 @@ if __name__ == '__main__':
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-🌆 Daytime    14 commits     ████████████░░░░░░░░░░░░░   48.28% 
-🌃 Evening    14 commits     ████████████░░░░░░░░░░░░░   48.28% 
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+🌆 Daytime    14 commits     ███████████░░░░░░░░░░░░░░   45.16% 
+🌃 Evening    16 commits     █████████████░░░░░░░░░░░░   51.61% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-Tuesday      11 commits     █████████░░░░░░░░░░░░░░░░   37.93% 
+Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Tuesday      11 commits     ████████░░░░░░░░░░░░░░░░░   35.48% 
 Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     5 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-Friday       9 commits      ███████░░░░░░░░░░░░░░░░░░   31.03% 
+Thursday     5 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+Friday       11 commits     ████████░░░░░░░░░░░░░░░░░   35.48% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+Sunday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
 
 ```
 
@@ -139,7 +139,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Vineees/Vineees/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2022 02:24:44 UTC
+ Last Updated on 28/08/2022 02:31:30 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
