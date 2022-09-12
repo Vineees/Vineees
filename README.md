@@ -30,14 +30,6 @@ class Vinee():
 if __name__ == '__main__':
     me = Vinee()
 ```
-<div align="center">
-   <a>My Last Song 🎧</a>
-</div>
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xbif4au76kecljhxkcoyw5f37q&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</div>
 
 <!--
 <div align="center">
