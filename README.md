@@ -61,7 +61,7 @@ if __name__ == '__main__':
 
 > 🏆 50 Contributions in the Year 2022
  > 
-> 📦 306 Bytes Used in GitHub's Storage 
+> 📦 309 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,16 +98,16 @@ Sunday       10 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-2-IRC-22 [GitHub]        31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -125,7 +125,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Vineees/Vineees/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/10/2022 02:36:09 UTC
+ Last Updated on 13/10/2022 02:29:11 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
