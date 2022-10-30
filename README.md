@@ -61,7 +61,7 @@ if __name__ == '__main__':
 
 > 🏆 56 Contributions in the Year 2022
  > 
-> 📦 387 Bytes Used in GitHub's Storage 
+> 📦 335 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -131,7 +131,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Vineees/Vineees/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2022 02:21:57 UTC
+ Last Updated on 30/10/2022 02:26:08 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
