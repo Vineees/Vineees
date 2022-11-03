@@ -53,7 +53,7 @@ if __name__ == '__main__':
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vineees&custom_title=Vinee%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://vinee.site)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,7 +61,7 @@ if __name__ == '__main__':
 
 > 🏆 62 Contributions in the Year 2022
  > 
-> 📦 360 Bytes Used in GitHub's Storage 
+> 📦 371 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,19 +98,20 @@ Sunday       10 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   2 hrs 51 mins       █████████████████████████   99.5% 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+Python                   2 hrs 27 mins       █████████████████████████   99.58% 
+jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 28 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-2-IRC-22                 2 hrs 52 mins       █████████████████████████   100.0%
+2-IRC-22                 2 hrs 12 mins       ██████████████████████░░░   89.23% 
+2-IRC-22 [GitHub]        15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.77%
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       ███████████████████░░░░░░   76.73% 
-Linux                    40 mins             █████░░░░░░░░░░░░░░░░░░░░   23.27%
+Windows                  2 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +129,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Vineees/Vineees/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/11/2022 02:21:12 UTC
+ Last Updated on 03/11/2022 02:03:30 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
