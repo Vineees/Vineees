@@ -53,13 +53,13 @@ if __name__ == '__main__':
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vineees&custom_title=Vinee%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://vinee.site)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 426 Bytes Used in GitHub's Storage 
+> 📦 428 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -96,20 +96,17 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     54 mins             ███████████████████░░░░░░   77.91 % 
-Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+YAML                     1 hr 37 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Local Vinee.xyz          36 mins             █████████████░░░░░░░░░░░░   51.41 % 
-Unknown Project          18 mins             ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-Discord-MusicBot         15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Unknown Project          1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 18 mins        ████████████████████░░░░░   80.87 % 
+Windows                  18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +123,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2023 00:34:57 UTC
+ Last Updated on 02/03/2023 00:37:41 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
