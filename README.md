@@ -53,13 +53,13 @@ if __name__ == '__main__':
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vineees&custom_title=Vinee%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://vinee.site)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 428 Bytes Used in GitHub's Storage 
+> 📦 430 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -96,17 +96,17 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     1 hr 37 mins        █████████████████████████   100.00 % 
+YAML                     1 hr 38 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 37 mins        █████████████████████████   100.00 % 
+Unknown Project          1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 18 mins        ████████████████████░░░░░   80.87 % 
-Windows                  18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Linux                    1 hr 20 mins        ████████████████████░░░░░   81.16 % 
+Windows                  18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +123,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2023 00:37:41 UTC
+ Last Updated on 03/03/2023 02:28:49 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
