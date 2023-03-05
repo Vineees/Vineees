@@ -59,7 +59,7 @@ if __name__ == '__main__':
 
 **🐱 My GitHub Data** 
 
-> 📦 433 Bytes Used in GitHub's Storage 
+> 📦 435 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -96,17 +96,16 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     1 hr 38 mins        █████████████████████████   100.00 % 
+YAML                     1 hr 20 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 38 mins        █████████████████████████   100.00 % 
+Unknown Project          1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 20 mins        ████████████████████░░░░░   81.16 % 
-Windows                  18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +122,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2023 00:33:15 UTC
+ Last Updated on 05/03/2023 00:39:20 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
