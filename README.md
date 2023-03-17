@@ -96,18 +96,16 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     1 min               ██████████████████████░░░   86.38 % 
-HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               ██████████████████████░░░   86.38 % 
-Área de Trabalho         0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +122,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2023 00:35:26 UTC
+ Last Updated on 17/03/2023 00:34:45 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
