@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
 **🐱 My GitHub Data** 
 
-> 📦 476 Bytes Used in GitHub's Storage 
+> 📦 477 Bytes Used in GitHub's Storage 
  > 
 > 🏆 9 Contributions in the Year 2023
  > 
@@ -94,16 +94,16 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SSH Config               2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ HTML                     2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2023 00:34:03 UTC
+ Last Updated on 24/04/2023 00:31:44 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
