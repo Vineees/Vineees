@@ -51,13 +51,13 @@ if __name__ == '__main__':
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 526 Bytes Used in GitHub's Storage 
+> 📦 540 Bytes Used in GitHub's Storage 
  > 
 > 🏆 28 Contributions in the Year 2023
  > 
@@ -125,7 +125,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2023 00:31:58 UTC
+ Last Updated on 16/05/2023 00:31:06 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
