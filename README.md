@@ -51,7 +51,7 @@ if __name__ == '__main__':
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -125,7 +125,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2023 00:30:10 UTC
+ Last Updated on 21/05/2023 00:34:06 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
