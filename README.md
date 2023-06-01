@@ -94,19 +94,16 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-INI                      18 mins             ████████████████████████░   97.76 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ESP32-ESP8266-TCP-Socket-17 mins             ████████████████████████░   94.07 % 
-ESP8266 TCP Socket Speed 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -123,7 +120,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2023 00:35:59 UTC
+ Last Updated on 01/06/2023 00:44:21 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
