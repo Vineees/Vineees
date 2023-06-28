@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
 **🐱 My GitHub Data** 
 
-> 📦 586 Bytes Used in GitHub's Storage 
+> 📦 587 Bytes Used in GitHub's Storage 
  > 
 > 🏆 40 Contributions in the Year 2023
  > 
@@ -120,7 +120,7 @@ HTML                     3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2023 00:40:00 UTC
+ Last Updated on 28/06/2023 00:40:01 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
