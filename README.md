@@ -51,9 +51,9 @@ if __name__ == '__main__':
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 **🐱 My GitHub Data** 
 
@@ -94,16 +94,20 @@ Sunday                   21 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      46 mins             ████████████████████░░░░░   80.95 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+INI                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Iniciando com Arduino    49 mins             ██████████████████████░░░   86.08 % 
+Vineees                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +126,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2023 22:40:44 UTC
+ Last Updated on 12/09/2023 18:39:01 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
