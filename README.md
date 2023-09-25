@@ -94,17 +94,16 @@ Sunday                   21 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-GDScript                 0 secs              ████████████████████████░   95.55 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +122,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2023 18:38:47 UTC
+ Last Updated on 25/09/2023 18:39:58 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
