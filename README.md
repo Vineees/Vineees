@@ -51,9 +51,9 @@ if __name__ == '__main__':
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 **🐱 My GitHub Data** 
 
@@ -129,7 +129,7 @@ Dockerfile               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2023 18:39:12 UTC
+ Last Updated on 11/12/2023 18:40:46 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
