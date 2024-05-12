@@ -59,6 +59,8 @@ if __name__ == '__main__':
 
 > 📦 2.0 kB Used in GitHub's Storage 
  > 
+> 🏆 55 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -127,7 +129,7 @@ Dockerfile               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2024 18:34:35 UTC
+ Last Updated on 12/05/2024 18:36:05 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
