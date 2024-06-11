@@ -59,8 +59,6 @@ if __name__ == '__main__':
 
 > 📦 2.0 kB Used in GitHub's Storage 
  > 
-> 🏆 79 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -94,9 +92,9 @@ Sunday                   22 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Git Config               18 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   70.52 % 
-Text                     7 mins              ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.30 % 
-Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.77 % 
+Git Config               18 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   70.80 % 
+Text                     7 mins              ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.01 % 
+Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.78 % 
 Python                   0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.41 % 
 
 🔥 Editors: 
@@ -126,7 +124,7 @@ Dockerfile               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2024 18:38:05 UTC
+ Last Updated on 11/06/2024 18:38:49 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
