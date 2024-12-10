@@ -51,13 +51,15 @@ if __name__ == '__main__':
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 217 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,16 +94,16 @@ Sunday                   18 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    2 hrs 20 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Other                    3 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  3 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🐱‍💻 Projects: 
-Activities-Fund-Prog     2 hrs 20 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Activities-Fund-Prog     3 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 20 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+WSL                      3 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +123,7 @@ SCSS                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 18:47:00 UTC
+ Last Updated on 10/12/2024 18:47:00 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
