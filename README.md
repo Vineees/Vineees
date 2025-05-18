@@ -59,6 +59,8 @@ if __name__ == '__main__':
 
 > 📦 2.2 kB Used in GitHub's Storage 
  > 
+> 🏆 64 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -121,7 +123,7 @@ SCSS                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2025 18:44:57 UTC
+ Last Updated on 18/05/2025 18:44:55 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
