@@ -51,9 +51,9 @@ if __name__ == '__main__':
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -61,7 +61,7 @@ if __name__ == '__main__':
 
 > 📦 4.2 kB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2026
+> 🏆 28 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,21 +72,21 @@ if __name__ == '__main__':
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                52 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.39 % 
-🌆 Daytime                118 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.27 % 
-🌃 Evening                85 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.33 % 
+🌞 Morning                56 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.37 % 
+🌆 Daytime                121 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.18 % 
+🌃 Evening                85 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.44 % 
 🌙 Night                  0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   51 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.00 % 
-Tuesday                  66 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.88 % 
-Wednesday                17 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.67 % 
-Thursday                 30 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.76 % 
-Friday                   63 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.71 % 
-Saturday                 8 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.14 % 
-Sunday                   20 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.84 % 
+Monday                   51 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.47 % 
+Tuesday                  69 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.34 % 
+Wednesday                17 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.49 % 
+Thursday                 34 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.98 % 
+Friday                   63 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.05 % 
+Saturday                 8 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.05 % 
+Sunday                   20 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.63 % 
 ```
 
 
@@ -96,25 +96,25 @@ Sunday                   20 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   2 hrs 14 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.13 % 
-HTML                     19 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.87 % 
+Python                   2 hrs 15 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.25 % 
+HTML                     19 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.75 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  2 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🐱‍💻 Projects: 
-viper-project            2 hrs 34 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+viper-project            2 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 34 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Linux                    2 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (60.65%)
+⏱ AI Coding Time: 1 hr 33 mins (60.11%)
 
-✍️ 1 lines written by AI, 93 lines written by hand (1.06% AI-written)
+✍️ 1 lines written by AI, 95 lines written by hand (1.04% AI-written)
 
 🔤 149,800 Input Tokens, 2,231 Output Tokens
 
@@ -126,10 +126,10 @@ GPT                      191 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 Github-Copilot           1 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.52 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.06% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 1.04% of written lines came from AI
 📝 Concise Prompter — average 31 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 99.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +149,7 @@ Dockerfile               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:35:35 UTC
+ Last Updated on 13/08/2026 19:33:20 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
