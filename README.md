@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -151,7 +151,7 @@ Dockerfile               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vineees/Vineees/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:57:14 UTC
+ Last Updated on 19/10/2026 22:32:50 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
